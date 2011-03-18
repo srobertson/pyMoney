@@ -1,1 +1,3 @@
 *.pyc
+dist/
+pyMoney.egg-info/
